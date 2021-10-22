@@ -22,7 +22,7 @@ The Excel template attached to this repository can be used to classify photos in
 * __PositionSecondMaxValue__: position that “SecondMaxValue” occupies in the table.
 * __"MaxValue"-"SecondMaxValue"__: numerical difference between “MaxValue” and “SecondMaxValue”.
 * __50%of_MaxValue__: half of “MaxValue”.
-* __("MaxValue"-"SecondMaxValue")-"50%of_MaxValue"__: numerical difference between "MaxValue"-"SecondMaxValue" and 50%of_MaxValue.
+* __("MaxValue"-"SecondMaxValue")-"50%of_MaxValue"__: numerical difference between "MaxValue"-"SecondMaxValue" and "50%of_MaxValue".
 * __ColumnR_is_negative?__: this field checks if the result of ("MaxValue"-"SecondMaxValue")-"50%of_MaxValue" is negative or not. if it is negative, a secondary CES category will be assigned.
 * __Secondary_CES_category__: secondary CES category that is finally assigned to each photograph. If “FALSE” appears, it means that the photograph does not require a category.
 # Contact information
